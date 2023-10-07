@@ -6,7 +6,7 @@ package chal1;
 
 /**
  *
- * @author russe
+ * @author russel
  */
 public class boring {
 
